@@ -1,2 +1,2 @@
 # Light-saber-darth-maul-
-Adds darth mall light saber to the game!
+Adds darth maullight saber to the game!
